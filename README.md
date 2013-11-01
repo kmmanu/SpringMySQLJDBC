@@ -1,7 +1,7 @@
 SpringMySQLJDBC
 ===============
 
-Sample program to connect to MySQL DB from Spring.
+Sample program to connect to MySQL DB from Spring.    The project can be run from eclipse and Intellij.
 
 
 Start MySQL
